@@ -1,7 +1,0 @@
-C:\Users\User\Documents\AlgoritmikTasks\MaxSubarraySum\bin\Debug\MaxSubarraySum.exe.config
-C:\Users\User\Documents\AlgoritmikTasks\MaxSubarraySum\bin\Debug\MaxSubarraySum.exe
-C:\Users\User\Documents\AlgoritmikTasks\MaxSubarraySum\bin\Debug\MaxSubarraySum.pdb
-C:\Users\User\Documents\AlgoritmikTasks\MaxSubarraySum\obj\Debug\MaxSubarraySum.csproj.AssemblyReference.cache
-C:\Users\User\Documents\AlgoritmikTasks\MaxSubarraySum\obj\Debug\MaxSubarraySum.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\AlgoritmikTasks\MaxSubarraySum\obj\Debug\MaxSubarraySum.exe
-C:\Users\User\Documents\AlgoritmikTasks\MaxSubarraySum\obj\Debug\MaxSubarraySum.pdb
