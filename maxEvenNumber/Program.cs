@@ -29,7 +29,7 @@ namespace maxEvenNumber
         {
             int[] nums = { 1, 2, 4, 5, 6, 7, 8, 18, 19, 36, 37 };
             int result = _maxEvenNumber(nums);
-            Console.WriteLine("Massivin en boyuk cut ededi: " + result);
+            Console.WriteLine("Massivin en boyuk cut elementi: " + result);
 
             Console.ReadLine();
 
