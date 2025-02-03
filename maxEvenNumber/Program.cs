@@ -19,7 +19,7 @@ namespace maxEvenNumber
                     {
                         evenMax = input[i];
                     }
-                }
+                } 
             }
 
             return evenMax;
@@ -27,7 +27,7 @@ namespace maxEvenNumber
         } 
         static void Main(string[] args)
         {
-            int[] nums = { 1, 2, 4, 5, 6, 7, 8, 18, 19, 36, 37 };
+            int[] nums = { 1, 2, 5,  7, 8, 19, 36, 37 };
             int result = _maxEvenNumber(nums);
             Console.WriteLine("Massivin en boyuk cut elementi: " + result);
 
