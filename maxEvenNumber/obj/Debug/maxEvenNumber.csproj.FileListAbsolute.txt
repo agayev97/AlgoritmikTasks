@@ -1,7 +1,0 @@
-C:\Users\User\Documents\AlgoritmikTasks\maxEvenNumber\bin\Debug\maxEvenNumber.exe.config
-C:\Users\User\Documents\AlgoritmikTasks\maxEvenNumber\bin\Debug\maxEvenNumber.exe
-C:\Users\User\Documents\AlgoritmikTasks\maxEvenNumber\bin\Debug\maxEvenNumber.pdb
-C:\Users\User\Documents\AlgoritmikTasks\maxEvenNumber\obj\Debug\maxEvenNumber.csproj.AssemblyReference.cache
-C:\Users\User\Documents\AlgoritmikTasks\maxEvenNumber\obj\Debug\maxEvenNumber.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\AlgoritmikTasks\maxEvenNumber\obj\Debug\maxEvenNumber.exe
-C:\Users\User\Documents\AlgoritmikTasks\maxEvenNumber\obj\Debug\maxEvenNumber.pdb
