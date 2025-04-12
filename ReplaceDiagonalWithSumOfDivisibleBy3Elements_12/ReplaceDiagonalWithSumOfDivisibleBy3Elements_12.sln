@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceDiagonalWithSumOfDivisibleBy3Elements_12", "ReplaceDiagonalWithSumOfDivisibleBy3Elements_12.csproj", "{B3060F66-715D-4FE9-87B9-57E486115548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3060F66-715D-4FE9-87B9-57E486115548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3060F66-715D-4FE9-87B9-57E486115548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3060F66-715D-4FE9-87B9-57E486115548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3060F66-715D-4FE9-87B9-57E486115548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68FA9342-1FB2-44DA-BC8E-C3423BF3C94C}
+	EndGlobalSection
+EndGlobal
